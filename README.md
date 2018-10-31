@@ -10,6 +10,9 @@ This script performs fast modular using the repeated squaring method on the comm
 
 ## Usage
 
+**Note**: Script can be invoked with `python3` instead of executing the file directly if shebang location does not correspond on local machine. 
+
+
 Run the script with parameters `a`, `b`, and `n` as eight digit hexadecimal strings according to `a^b mod n` as follows:
 
 ```
